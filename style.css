@@ -41,7 +41,7 @@ section {
 .about-description {
     text-align: center;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 50px;
 }
 
 @media only screen and (max-width: 600px) {
